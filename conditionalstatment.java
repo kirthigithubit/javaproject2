@@ -27,5 +27,10 @@ public class conditionalstatment {
 		{
 			System.out.println("fail");
 		}
+		int a=100,b=200;
+    if(a<b)
+    {
+    	System.out.println("a is greater than b");
+    }
     }
 }
